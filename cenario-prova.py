@@ -5,8 +5,6 @@ Cenario de Prova Pratica de Redes 2
 Adaptacao do codigo de exemplo
 linuxrouter.py: Example network with Linux IP router
 ~mininet/examples/linuxrouter.py
-
-versão 0.1: 08/10/2020
 """
 
 from mininet.topo import Topo
